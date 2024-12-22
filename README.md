@@ -1,4 +1,4 @@
-# Core-operating-system
+# How to make your own operating system
 
 Creating an operating system (OS) from scratch using the C programming language is a complex and extensive project that involves understanding low-level programming, hardware interactions, memory management, and more. While building a full-featured OS is a long-term project, I can provide you with a basic structure and guide you on how to start. Here's an outline of how you might approach building a simple OS in C:
 
